@@ -1,2 +1,0 @@
-# cryptous
- React + Tailwindcss
